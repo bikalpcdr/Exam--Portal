@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d56cdec8-01e6-4ed2-8906-3afd89213728" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam-portal-backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;Spring Boot.ExamPortalBackendApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -59,7 +58,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="Spring Boot.ExamPortalBackendApplication">
     <configuration name="ExamPortalBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="exam-portal-backend" />
@@ -126,6 +125,9 @@
       <workItem from="1732410734621" duration="994000" />
       <workItem from="1732418735300" duration="25000" />
       <workItem from="1732456746290" duration="6191000" />
+      <workItem from="1732463889640" duration="1211000" />
+      <workItem from="1732505796665" duration="42000" />
+      <workItem from="1732506280535" duration="179000" />
     </task>
     <servers />
   </component>
